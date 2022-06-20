@@ -1,5 +1,5 @@
 # Author:David-Bombal
-
+#Educational Purposes Only
 # Pls modify the code to make it undetectable from Anti-Virus
 
 from asyncio import subprocess
